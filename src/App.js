@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React asdas new фича Совсем новая фича
+          Learn React asdas new фича Совсем новая фича asdas
         </a>
       </header>
     </div>
